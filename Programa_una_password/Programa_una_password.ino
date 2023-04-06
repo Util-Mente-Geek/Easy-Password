@@ -1,6 +1,6 @@
 /** AxeDoor
  * Codigo para teclear una contraseña predefinida en programa
- * Microcontrolador: Arduino uno
+ * Microcontrolador: Arduino Uno
  * Escrito por: Útil Mente Geek
  * PaginaWeb: www.utilmentegeek.com
  * YouTube: https://www.youtube.com/channel/UCBqfcl_tue6Zsk4Hc3BErWg
